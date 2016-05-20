@@ -1,0 +1,15 @@
+{
+  "requested_url": "http://wwos.ninemsn.com.au/rss/headlines/",
+  "fetched_at": "2016-05-13T00:48:29.494368",
+  "status_code": 404,
+  "response_text": "Not Found",
+  "headers": {
+    "Expires": "Fri, 13 May 2016 07:46:16 GMT",
+    "Cache-Control": "max-age=10",
+    "Content-Length": "9",
+    "Date": "Fri, 13 May 2016 07:46:06 GMT",
+    "Content-Type": "text/html",
+    "Connection": "keep-alive"
+  },
+  "response_url": "http://wwos.ninemsn.com.au/rss/headlines/"
+}

@@ -1,0 +1,22 @@
+{
+  "requested_url": "http://indianexpress.com/entertainment/feed/",
+  "fetched_at": "2016-05-13T00:47:04.013652",
+  "status_code": 200,
+  "response_text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmlns:wfw=\"http://wellformedweb.org/CommentAPI/\"\n\txmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n\txmlns:atom=\"http://www.w3.org/2005/Atom\"\n\txmlns:sy=\"http://purl.org/rss/1.0/modules/syndication/\"\n\txmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\"\n\txmlns:georss=\"http://www.georss.org/georss\" xmlns:geo=\"http://www.w3.org/2003/01/geo/wgs84_pos#\" xmlns:media=\"http://search.yahoo.com/mrss/\"\n\t>\n\n<channel>\n\t<title>The Indian ExpressEntertainment &#8211; The Indian Express</title>\n\t<atom:link href=\"http://indianexpress.com/entertainment/feed/\" rel=\"self\" type=\"application/rss+xml\" />\n\t<link>http://indianexpress.com</link>\n\t<description>Latest News, Breaking News Live, Current Headlines, India News Online</description>\n\t<lastBuildDate>Fri, 13 May 2016 07:43:24 +0000</lastBuildDate>\n\t<language>en</language>\n\t\t<sy:updatePeriod>hourly</sy:updatePeriod>\n\t\t<sy:updateFrequency>1</sy:updateFrequency>\n\t<generator>http://wordpress.com/</generator>\n<cloud domain='indianexpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />\n<image>\n\t\t<url>http://0.gravatar.com/blavatar/efe0300e7f891c5c802ed340f6b20b67?s=96&#038;d=http%3A%2F%2Fs2.wp.com%2Fi%2Fbuttonw-com.png</url>\n\t\t<title>Entertainment &#8211; The Indian Express</title>\n\t\t<link>http://indianexpress.com</link>\n\t</image>\n\t<atom:link rel=\"search\" type=\"application/opensearchdescription+xml\" href=\"http://indianexpress.com/osd.xml\" title=\"The Indian Express\" />\n\t<atom:link rel='hub' href='http://indianexpress.com/?pushpress=hub'/>\n</channel>\n</rss>",
+  "headers": {
+    "Date": "Fri, 13 May 2016 07:44:40 GMT",
+    "Transfer-Encoding": "chunked",
+    "Link": "<http://wp.me/P3DY9j-85Et>; rel=shortlink",
+    "Content-Encoding": "gzip",
+    "Last-Modified": "GMT",
+    "X-nananana": "Batcache",
+    "Connection": "keep-alive",
+    "Server": "nginx",
+    "X-hacker": "If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.",
+    "ETag": "W/\"99b889a9cd748e8b4eca0eb3758d138d\"",
+    "Vary": "Accept-Encoding, Cookie",
+    "X-ac": "4.sjc _bur",
+    "Content-Type": "text/xml; charset=UTF-8"
+  },
+  "response_url": "http://indianexpress.com/entertainment/feed/"
+}

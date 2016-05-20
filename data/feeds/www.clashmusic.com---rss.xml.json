@@ -1,0 +1,12 @@
+{
+  "requested_url": "http://www.clashmusic.com/rss.xml",
+  "fetched_at": "2016-05-13T00:48:04.154880",
+  "status_code": 500,
+  "response_text": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html;charset=utf-8\">\n<title>Service Unavailable</title>\n<style type=\"text/css\">\nbody, p, h1 {\n  font-family: Verdana, Arial, Helvetica, sans-serif;\n}\nh2 {\n  font-family: Arial, Helvetica, sans-serif;\n  color: #b10b29;\n}\n</style>\n</head>\n<body>\n<h2>Service Unavailable</h2>\n<p>The service is temporarily unavailable. Please try again later.</p>\n</body>\n</html>\n",
+  "headers": {
+    "Date": "Fri, 13 May 2016 07:45:40 GMT",
+    "Content-Type": "text/html",
+    "Connection": "close"
+  },
+  "response_url": "http://www.clashmusic.com/rss.xml"
+}

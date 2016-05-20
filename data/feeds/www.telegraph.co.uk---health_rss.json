@@ -1,0 +1,16 @@
+{
+  "requested_url": "http://www.telegraph.co.uk/health/rss",
+  "fetched_at": "2016-05-13T00:48:23.257981",
+  "status_code": 404,
+  "response_text": "<html>\n<head><title>404 Not Found</title></head>\n<body>\n<h1>404 Not Found</h1>\n<ul>\n<li>Code: NoSuchKey</li>\n<li>Message: The specified key does not exist.</li>\n<li>Key: rss-feed-prod/health/rss.xml</li>\n<li>RequestId: D4766D802A01CDC7</li>\n<li>HostId: So60EG0Kbga38G2akhU3FWzxTW2u+9OesmxixBPWXe/CiKBrPAeQWOVxAFFX1kXq+Ae8vrTI1So=</li>\n</ul>\n<hr/>\n</body>\n</html>\n",
+  "headers": {
+    "Content-Length": "363",
+    "x-amz-request-id": "D4766D802A01CDC7",
+    "Date": "Fri, 13 May 2016 07:46:00 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Server": "nginx",
+    "Connection": "keep-alive",
+    "x-amz-id-2": "So60EG0Kbga38G2akhU3FWzxTW2u+9OesmxixBPWXe/CiKBrPAeQWOVxAFFX1kXq+Ae8vrTI1So="
+  },
+  "response_url": "http://www.telegraph.co.uk/health/rss.xml"
+}

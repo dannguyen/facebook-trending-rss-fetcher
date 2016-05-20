@@ -1,0 +1,20 @@
+{
+  "requested_url": "http://feeds2.feedburner.com/musicmaza/zNyY",
+  "fetched_at": "2016-05-13T00:47:03.587409",
+  "status_code": 200,
+  "response_text": "<html>\r\n<head>\r\n<meta name=\"robots\" content=\"noarchive\" />\r\n<meta name=\"googlebot\" content=\"nosnippet\" />\r\n</head>\r\n<body>\r\n<div align=center>\r\n<h3>Error. Page cannot be displayed. Please contact your service provider for more details.  (13)</h3>\r\n</div>\r\n</body>\r\n</html>",
+  "headers": {
+    "Expires": "Fri, 13 May 2016 07:44:40 GMT",
+    "X-XSS-Protection": "1; mode=block",
+    "Transfer-Encoding": "chunked",
+    "Cache-Control": "private, max-age=0",
+    "ETag": "rX+2KsWgZpO1F9DNCOPzESsnaxo",
+    "Content-Encoding": "gzip",
+    "Last-Modified": "Fri, 13 May 2016 07:37:47 GMT",
+    "Date": "Fri, 13 May 2016 07:44:40 GMT",
+    "X-Content-Type-Options": "nosniff",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Server": "GSE"
+  },
+  "response_url": "http://feeds2.feedburner.com/musicmaza/zNyY"
+}

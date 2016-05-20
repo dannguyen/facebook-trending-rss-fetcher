@@ -1,0 +1,24 @@
+{
+  "requested_url": "http://www.tehelka.com/cinema/?feed=custom_feed",
+  "fetched_at": "2016-05-13T00:47:00.969142",
+  "status_code": 200,
+  "response_text": "\t  \r\n<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\r\n<rss version=\"2.0\"\r\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\r\n\txmlns:wfw=\"http://wellformedweb.org/CommentAPI/\"\r\n\txmlns:dc=\"http://purl.org/dc/elements/1.1/\"\r\n\txmlns:atom=\"http://www.w3.org/2005/Atom\"\r\n\txmlns:sy=\"http://purl.org/rss/1.0/modules/syndication/\"\r\n\txmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\"\r\n\t>\r\n\r\n<channel>\r\n\t<title>Tehelka - Investigations, Latest News, Politics, Analysis, Blogs, Culture, Photos, Videos, Podcasts &#187; Cinema</title>\r\n\t<atom:link href=\"http://www.tehelka.com/cinema/?feed=custom_feed\" rel=\"self\" type=\"application/rss+xml\" />\r\n\t<link>http://www.tehelka.com</link>\r\n\t<description></description>\r\n\t<lastBuildDate>Fri, 13 May 2016 04:06:28 +0000</lastBuildDate>\r\n\t<language></language>\r\n\t<sy:updatePeriod>hourly</sy:updatePeriod>\r\n\t<sy:updateFrequency>1</sy:updateFrequency>\r\n\t<generator>http://wordpress.org/?v=4.1.1</generator>\n\t\t<item>\r\n\t\t<title>Cinema</title>\r\n\t\t<link>http://www.tehelka.com/cinema/</link>\r\n\t\t<comments>http://www.tehelka.com/cinema/#comments</comments>\r\n\t\t<pubDate>Tue, 02 Apr 2013 13:03:33 +0000</pubDate>\r\n\t\t<dc:creator>Tehelka Bureau</dc:creator>\r\n\t\t\r\n\t\t<guid isPermaLink=\"false\">http://tehelka.com/?page_id=114939</guid>\r\n\t\t\r\n\t\t<enclosure url=\"\" type=\"image/jpeg\" />\r\n\t\t\r\n\t\t<description><![CDATA[]]></description>\r\n\t\t\t<content:encoded><![CDATA[]]></content:encoded>\r\n\t\t\t<wfw:commentRss>http://www.tehelka.com/cinema/feed/</wfw:commentRss>\r\n\t\t<slash:comments>0</slash:comments>\r\n\t\t</item>\r\n\t</channel>\r\n</rss>\n<!-- Quick Cache is NOT caching this page, because `$_SERVER['REQUEST_URI']` indicates this is a `/feed`; and the configuration of this site says not to cache XML-based feeds. -->",
+  "headers": {
+    "Date": "Fri, 13 May 2016 07:44:38 GMT",
+    "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+    "Link": "<http://www.tehelka.com/?p=114939>; rel=shortlink",
+    "Content-Encoding": "gzip",
+    "Last-Modified": "Wed, 25 Nov 2015 06:00:45 GMT",
+    "Pragma": "no-cache",
+    "X-Content-Type-Options": "nosniff",
+    "Connection": "keep-alive",
+    "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+    "CF-RAY": "2a247c7ad70c2828-SJC",
+    "Transfer-Encoding": "chunked",
+    "Vary": "Accept-Encoding",
+    "Server": "cloudflare-nginx",
+    "Content-Type": "text/html; charset=UTF-8",
+    "X-Pingback": "http://www.tehelka.com/xmlrpc.php"
+  },
+  "response_url": "http://www.tehelka.com/cinema/?feed=custom_feed"
+}

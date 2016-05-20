@@ -1,0 +1,17 @@
+{
+  "requested_url": "http://www.dnaindia.com/feeds/entertainment.xml",
+  "fetched_at": "2016-05-13T00:47:04.579932",
+  "status_code": 403,
+  "response_text": "\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html>\n  <head>\n    <title>403 not available now</title>\n  </head>\n  <body>\n    <h1>Error 403 not available now</h1>\n    <p>not available now</p>\n    <h3>Guru Meditation:</h3>\n    <p>XID: 314834414</p>\n    <hr>\n    <p>Varnish cache server</p>\n  </body>\n</html>\n",
+  "headers": {
+    "Content-Length": "412",
+    "Date": "Fri, 13 May 2016 07:44:41 GMT",
+    "Accept-Ranges": "bytes",
+    "Retry-After": "5",
+    "Content-Type": "text/html; charset=utf-8",
+    "Server": "server",
+    "Connection": "keep-alive",
+    "X-Varnish": "314834414"
+  },
+  "response_url": "http://www.dnaindia.com/feeds/entertainment.xml"
+}

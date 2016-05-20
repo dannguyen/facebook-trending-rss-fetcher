@@ -1,0 +1,15 @@
+{
+  "requested_url": "http://www.soarmagazine.co.uk/feed/",
+  "fetched_at": "2016-05-13T00:47:42.212843",
+  "status_code": 403,
+  "response_text": "<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n",
+  "headers": {
+    "Content-Length": "162",
+    "Keep-Alive": "timeout=20",
+    "Date": "Fri, 13 May 2016 07:45:19 GMT",
+    "Content-Type": "text/html",
+    "Server": "nginx",
+    "Connection": "keep-alive"
+  },
+  "response_url": "http://www.soarmagazine.co.uk/feed/"
+}

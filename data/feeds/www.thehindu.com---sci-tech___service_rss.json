@@ -1,0 +1,25 @@
+{
+  "requested_url": "http://www.thehindu.com/sci-tech/?service=rss",
+  "fetched_at": "2016-05-13T00:46:59.706575",
+  "status_code": 200,
+  "response_text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<rss version=\"2.0\">\n<channel>\n<title>The Hindu - Sci-Tech</title>\n<link>http://www.thehindu.com/</link>\n<description>RSS feed</description>\n<language>en-us</language>\n<copyright>Copyright 2016 The Hindu</copyright>\n<item>\n<title><![CDATA[IS launches mobile app for children]]></title>\n<author><![CDATA[PTI]]></author>\n<category><![CDATA[International]]></category>\n<link>http://www.thehindu.com/news/international/is-launches-mobile-app-for-children/article8591339.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication</link>\n<description><![CDATA[\nIslamic State (IS) has reportedly launched its first mobile app for children to teach them the Arabic alphabet and the vocabulary taught by it includes jihadist themes along with words like \u2018tank\u2019, \u2018...\n]]>\n</description>\n<pubDate><![CDATA[Fri, 13 May 2016 03:14:55 +0530]]></pubDate>\n</item>\n<item>\n<title><![CDATA[Centre\u2019s afforestation bill faces Rajya Sabha stumble]]></title>\n<author><![CDATA[Vidya Venkat]]></author>\n<category><![CDATA[National]]></category>\n<link>http://www.thehindu.com/news/national/centres-afforestation-bill-faces-rajya-sabha-stumble/article8591327.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication</link>\n<description><![CDATA[\nThe Centre\u2019s plans to spend nearly Rs. 42,000 crore under the afforestation programme now hang in the balance\n]]>\n</description>\n<pubDate><![CDATA[Fri, 13 May 2016 12:10:24 +0530]]></pubDate>\n</item>\n<item>\n<title><![CDATA[Killer Instinct: Season 3 - State of play]]></title>\n<author><![CDATA[Andre Rodrigues]]></author>\n<category><![CDATA[Bombay Showcase]]></category>\n<link>http://www.thehindu.com/news/cities/mumbai/entertainment/state-of-play/article8593211.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication</link>\n<description><![CDATA[\nA one-on-one fighter\n]]>\n</description>\n<pubDate><![CDATA[Fri, 13 May 2016 08:25:43 +0530]]></pubDate>\n</item>\n<item>\n<title><![CDATA[Internships on the go]]></title>\n<author><![CDATA[Sri Vidya]]></author>\n<category><![CDATA[Metroplus]]></category>\n<link>http://www.thehindu.com/features/metroplus/internships-on-the-go/article8590221.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication</link>\n<description><![CDATA[\nLooking for a summer internship? Just pick up your smartphone and download these helpful apps\n]]>\n</description>\n<pubDate><![CDATA[Thu, 12 May 2016 20:12:51 +0530]]></pubDate>\n</item>\n<item>\n<title><![CDATA[Einstein is bang right even 13 billion light years from Earth]]></title>\n<author><![CDATA[PTI]]></author>\n<category><![CDATA[Sci-Tech]]></category>\n<link>http://www.thehindu.com/sci-tech/einsteins-relativity-theory-proved-by-japanese-scientists/article8590468.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication</link>\n<description><![CDATA[\nJapanese researchers prove the 'universality' of the eminent scientist's relativity theory..\n]]>\n</description>\n<pubDate><![CDATA[Thu, 12 May 2016 16:47:10 +0530]]></pubDate>\n</item>\n</channel>\n</rss>\n",
+  "headers": {
+    "Cache-Control": "max-age=72",
+    "X-Cache-Hits": "5",
+    "Content-Language": "en",
+    "Expires": "Fri, 13 May 2016 07:45:48 GMT",
+    "Content-Encoding": "gzip",
+    "Last-Modified": "Fri, 13 May 2016 07:43:12 GMT, Thu, 12 May 2016 19:11:31 GMT",
+    "Date": "Fri, 13 May 2016 07:44:36 GMT",
+    "Connection": "keep-alive",
+    "X-Served-By": "cache-2",
+    "Content-Length": "1251",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Content-Type": "application/rss+xml;charset=UTF-8",
+    "ETag": "\"154a911bc78\"",
+    "Vary": "Accept-Encoding",
+    "Server": "Apache-Coyote/1.1",
+    "Accept-Ranges": "bytes"
+  },
+  "response_url": "http://www.thehindu.com/sci-tech/?service=rss"
+}

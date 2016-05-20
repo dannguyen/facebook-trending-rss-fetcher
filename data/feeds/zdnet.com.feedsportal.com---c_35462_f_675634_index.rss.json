@@ -1,0 +1,7 @@
+{
+  "requested_url": "http://zdnet.com.feedsportal.com/c/35462/f/675634/index.rss",
+  "fetched_at": "2016-05-13T00:45:41.108547",
+  "status_code": "ConnectionError",
+  "response_text": "HTTPConnectionPool(host='zdnet.com.feedsportal.com', port=80): Max retries exceeded with url: /c/35462/f/675634/index.rss (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x1005324a8>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))",
+  "headers": null
+}

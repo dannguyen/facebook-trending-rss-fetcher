@@ -1,0 +1,12 @@
+{
+  "requested_url": "http://www.mansworldindia.com/feed/",
+  "fetched_at": "2016-05-13T00:46:45.705589",
+  "status_code": 502,
+  "response_text": "<html><body><h1>502 Bad Gateway</h1>\nThe server returned an invalid or incomplete response.\n</body></html>\n",
+  "headers": {
+    "Content-Type": "text/html",
+    "Cache-Control": "no-cache",
+    "Connection": "close"
+  },
+  "response_url": "http://www.mansworldindia.com/feed/"
+}

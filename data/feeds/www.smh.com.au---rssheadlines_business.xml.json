@@ -1,0 +1,27 @@
+{
+  "requested_url": "http://www.smh.com.au/rssheadlines/business.xml",
+  "fetched_at": "2016-05-13T00:48:22.286860",
+  "status_code": 200,
+  "response_text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<rss xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:media=\"http://search.yahoo.com/mrss/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:taxo=\"http://purl.org/rss/1.0/modules/taxonomy/\" version=\"2.0\">\r\n  <channel>\r\n    <title>smh.com.au Business News.</title>\r\n    <link>http://www.smh.com.au/business</link>\r\n    <description>The latest business news from smh.com.au. For all the business news, visit http://business.smh.com.au/</description>\r\n    <language>en-AU</language>\r\n    <image>\r\n      <title>The Sydney Morning Herald</title>\r\n      <url>http://images.smh.com.au/2012/06/12/3368669/logo-rss-smh.png</url>\r\n      <link>http://smh.com.au</link>\r\n    </image>\r\n    <item>\r\n      <title>Google to ban payday loan advertisements</title>\r\n      <link>http://www.smh.com.au/business/banking-and-finance/google-to-ban-payday-loan-advertisements-20160512-got8ac.html</link>\r\n      <description>The search site will ban all payday loan ads from its site amid concerns the lending practice exploits the poor and vulnerable via loans with sky-high interest rates.</description>\r\n      <pubDate>Thu, 12 May 2016 02:42:12 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">got8ac</guid>\r\n    </item>\r\n    <item>\r\n      <title>How Turnbull found riches in Siberia</title>\r\n      <link>http://www.smh.com.au/business/how-turnbull-found-riches-in-siberia-20160512-got530.html</link>\r\n      <description>&lt;p&gt;&lt;img src=\"http://images.smh.com.au/2016/05/12/7413477/Thumbnail1009129212gosu35image.related.thumbnail.320x214.got530.png1463066854207.jpg-90x60.jpg\" width=\"90\" height=\"60\" style=\"float:left;margin:4px;border:0px\"/&gt;&lt;/p&gt;It was classic Malcolm Turnbull, during his raging years around the sharemarket, when he made a motza cutting in and out of situations, often in the shifting sands of the media landscape, and then as a mining promoter, an old standby for many of the country's money men over the years.</description>\r\n      <pubDate>Thu, 12 May 2016 15:28:03 GMT</pubDate>\r\n      <guid isPermaLink=\"false\">got530</guid>\r\n    </item>\r\n  </channel>\r\n</rss>\r\n\r\n",
+  "headers": {
+    "P3P": "policyref=\"http://f2.com.au/w3c/p3p.xml\", CP=\"CAO DSP LAW CURa ADMa DEVa TAIa PSAa PSDa IVAi IVDi OUR IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT PRE GOV\"",
+    "Cache-Control": "public, max-age=14",
+    "Accept-Ranges": "bytes",
+    "Content-Language": "en-AU",
+    "Expires": "Fri, 13 May 2016 07:46:13 GMT",
+    "Content-Encoding": "gzip",
+    "Vary": "Accept-Encoding",
+    "Date": "Fri, 13 May 2016 07:45:59 GMT",
+    "X-Age": "0",
+    "X-FXJ-ID": "2818924553",
+    "Connection": "keep-alive",
+    "Pragma": "no-cache",
+    "Content-Length": "1021",
+    "X-FXJ-EO": "1",
+    "X-FXJ-C": "MISS",
+    "Content-Type": "application/rss+xml;charset=ISO-8859-1",
+    "Server": "Apache",
+    "Content-Disposition": "inline"
+  },
+  "response_url": "http://www.smh.com.au/rssheadlines/business.xml"
+}

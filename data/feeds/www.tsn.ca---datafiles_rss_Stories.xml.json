@@ -1,0 +1,20 @@
+{
+  "requested_url": "http://www.tsn.ca/datafiles/rss/Stories.xml",
+  "fetched_at": "2016-05-13T00:46:14.748651",
+  "status_code": 200,
+  "response_text": "\u00ef\u00bb\u00bf<?xml version=\"1.0\" encoding=\"utf-8\"?><rss version=\"2.0\"><channel><title>tsn.ca Top Stories RSS</title><description>tsn.ca Canada's Sports Leader</description><link>http://www.tsn.ca/</link><item><title>Batum, Jefferson lead Hornets past Trail Blazers</title><link>http://www.tsn.ca/1.394283.1447644838</link><guid ispermalink=\"false\">565714</guid><description>Go to TSN.ca for details. #TSN</description><category>CHL</category><pubDate>Mon, 16 Nov 2015 00:33:46 GMT</pubDate><enclosure url=\"http://www.tsn.ca/polopoly_fs/1.394288.1447644622!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_240/nicolas-batum.jpg\" length=\"unavailable\" type=\"image/jpeg\" /></item></channel></rss>",
+  "headers": {
+    "Content-Length": "449",
+    "Vary": "Accept-Encoding",
+    "X-Powered-By": "ASP.NET",
+    "X-VCache": "HIT",
+    "Content-Encoding": "gzip",
+    "Last-Modified": "Mon, 16 Nov 2015 23:11:10 GMT",
+    "Date": "Fri, 13 May 2016 07:43:51 GMT",
+    "ETag": "\"0fb7e14c420d11:0\"",
+    "Content-Type": "text/xml",
+    "Connection": "keep-alive",
+    "Accept-Ranges": "bytes"
+  },
+  "response_url": "http://www.tsn.ca/datafiles/rss/Stories.xml"
+}

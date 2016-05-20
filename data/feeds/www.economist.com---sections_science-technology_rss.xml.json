@@ -1,0 +1,19 @@
+{
+  "requested_url": "http://www.economist.com/sections/science-technology/rss.xml",
+  "fetched_at": "2016-05-13T00:47:43.696911",
+  "status_code": 403,
+  "response_text": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>403 You are banned from this site.  Please contact via a different client configuration if you believe that this is a mistake.</title>\n  </head>\n  <body>\n    <h1>Error 403 You are banned from this site.  Please contact via a different client configuration if you believe that this is a mistake.</h1>\n    <p>You are banned from this site.  Please contact via a different client configuration if you believe that this is a mistake.</p>\n    <h3>Guru Meditation:</h3>\n    <p>XID: 506117099</p>\n    <hr>\n    <p>Varnish cache server</p>\n  </body>\n</html>\n",
+  "headers": {
+    "X-Iinfo": "5-20523972-20518975 PNNN RT(1463125520320 5) q(0 0 0 -1) r(0 0) U5",
+    "Date": "Fri, 13 May 2016 07:45:21 GMT",
+    "Transfer-Encoding": "chunked",
+    "X-CDN": "Incapsula",
+    "Content-Encoding": "gzip",
+    "Retry-After": "5",
+    "Content-Type": "text/html; charset=utf-8",
+    "Server": "Varnish",
+    "Connection": "keep-alive",
+    "X-Varnish": "506117099"
+  },
+  "response_url": "http://www.economist.com/sections/science-technology/rss.xml"
+}

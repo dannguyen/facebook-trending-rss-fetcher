@@ -1,0 +1,25 @@
+{
+  "requested_url": "http://www.thehindu.com/news/international/south-asia/?service=rss",
+  "fetched_at": "2016-05-13T00:46:33.096997",
+  "status_code": 200,
+  "response_text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<rss version=\"2.0\">\n<channel>\n<title>The Hindu - South Asia</title>\n<link>http://www.thehindu.com/</link>\n<description>RSS feed</description>\n<language>en-us</language>\n<copyright>Copyright 2016 The Hindu</copyright>\n<item>\n<title><![CDATA[F-16 issue: Aziz says Pakistan\u2019s relation with U.S. under stress ]]></title>\n<author><![CDATA[PTI]]></author>\n<category><![CDATA[International]]></category>\n<link>http://www.thehindu.com/news/international/f16-issue-aziz-says-pakistans-relation-with-us-under-stress/article8594017.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication</link>\n<description><![CDATA[\nHe attributes the decision to the Indian lobby in America who have been adding fuel to the fire post-Pathankot.\n]]>\n</description>\n<pubDate><![CDATA[Fri, 13 May 2016 12:44:47 +0530]]></pubDate>\n</item>\n<item>\n<title><![CDATA[Bangladesh lightning death toll rises to 35 ]]></title>\n<author><![CDATA[PTI]]></author>\n<category><![CDATA[International]]></category>\n<link>http://www.thehindu.com/news/international/bangladesh-lightning-death-toll-rises-to-35/article8593822.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication</link>\n<description><![CDATA[\nThundershowers struck Dhaka and other parts of the country after scorching heat.\n]]>\n</description>\n<pubDate><![CDATA[Fri, 13 May 2016 11:36:12 +0530]]></pubDate>\n</item>\n<item>\n<title><![CDATA[India\u2019s help sought to tackle drugs problem in Jaffna]]></title>\n<author><![CDATA[T. Ramakrishnan]]></author>\n<category><![CDATA[International]]></category>\n<link>http://www.thehindu.com/news/international/indias-help-sought-to-tackle-drugs-problem-in-jaffna/article8591348.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication</link>\n<description><![CDATA[\nSmuggling of \u2018Kerala ganja\u2019 from India has gone up in recent times, locals complain\n]]>\n</description>\n<pubDate><![CDATA[Fri, 13 May 2016 00:43:21 +0530]]></pubDate>\n</item>\n<item>\n<title><![CDATA[Bangladesh, India to \u2018fight terror together\u2019]]></title>\n<author><![CDATA[Haroon Habib]]></author>\n<category><![CDATA[International]]></category>\n<link>http://www.thehindu.com/news/international/bangladesh-india-to-fight-terror-together/article8591333.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication</link>\n<description><![CDATA[\nForeign Secretary S. Jaishankar said on Thursday that India and Bangladesh will \u201cwork together\u201d to combat terrorism.\nAfter a meeting with his Bangladesh counterpart here, the Indian foreign secreta...\n]]>\n</description>\n<pubDate><![CDATA[Fri, 13 May 2016 00:32:46 +0530]]></pubDate>\n</item>\n<item>\n<title><![CDATA[Cricketer killed with stump after taunt against umpire ]]></title>\n<author><![CDATA[PTI]]></author>\n<category><![CDATA[International]]></category>\n<link>http://www.thehindu.com/news/international/cricketer-killed-with-stump-after-taunt-against-umpire/article8590023.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication</link>\n<description><![CDATA[\nHe had said the umpire may again favour the batsman, enraging the latter.\n]]>\n</description>\n<pubDate><![CDATA[Thu, 12 May 2016 15:21:47 +0530]]></pubDate>\n</item>\n</channel>\n</rss>\n",
+  "headers": {
+    "Cache-Control": "max-age=79",
+    "X-Cache-Hits": "3",
+    "Content-Language": "en",
+    "Expires": "Fri, 13 May 2016 07:45:29 GMT",
+    "Content-Encoding": "gzip",
+    "Last-Modified": "Fri, 13 May 2016 07:42:53 GMT, Fri, 13 May 2016 07:14:39 GMT",
+    "Date": "Fri, 13 May 2016 07:44:10 GMT",
+    "Connection": "keep-alive",
+    "X-Served-By": "cache-1",
+    "Content-Length": "1247",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Content-Type": "application/rss+xml;charset=UTF-8",
+    "ETag": "\"154a91170a8\"",
+    "Vary": "Accept-Encoding",
+    "Server": "Apache-Coyote/1.1",
+    "Accept-Ranges": "bytes"
+  },
+  "response_url": "http://www.thehindu.com/news/international/south-asia/?service=rss"
+}

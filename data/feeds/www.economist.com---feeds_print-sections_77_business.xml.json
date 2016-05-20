@@ -1,0 +1,19 @@
+{
+  "requested_url": "http://www.economist.com/feeds/print-sections/77/business.xml",
+  "fetched_at": "2016-05-13T00:45:18.321946",
+  "status_code": 403,
+  "response_text": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>403 You are banned from this site.  Please contact via a different client configuration if you believe that this is a mistake.</title>\n  </head>\n  <body>\n    <h1>Error 403 You are banned from this site.  Please contact via a different client configuration if you believe that this is a mistake.</h1>\n    <p>You are banned from this site.  Please contact via a different client configuration if you believe that this is a mistake.</p>\n    <h3>Guru Meditation:</h3>\n    <p>XID: 388099737</p>\n    <hr>\n    <p>Varnish cache server</p>\n  <script type=\"text/javascript\">\n//<![CDATA[\n(function() {\nvar _analytics_scr = document.createElement('script');\n_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';\nvar _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);\n})();\n// ]]>\n</script></body>\n</html>\n",
+  "headers": {
+    "X-Iinfo": "8-30857639-30849652 PNNN RT(1463125374743 0) q(0 0 0 1) r(0 0) U5",
+    "Date": "Fri, 13 May 2016 07:42:55 GMT",
+    "Transfer-Encoding": "chunked",
+    "X-CDN": "Incapsula",
+    "Content-Encoding": "gzip",
+    "Retry-After": "5",
+    "Content-Type": "text/html; charset=utf-8",
+    "Server": "Varnish",
+    "Connection": "keep-alive",
+    "X-Varnish": "388099737"
+  },
+  "response_url": "http://www.economist.com/feeds/print-sections/77/business.xml"
+}

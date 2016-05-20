@@ -1,0 +1,17 @@
+{
+  "requested_url": "http://rss.canada.com/get/?F270",
+  "fetched_at": "2016-05-13T00:46:00.336904",
+  "status_code": 200,
+  "response_text": "<error>Unknown feed format.  Supported formats are RSS 1.0/RDF, RSS 2.0 and ATOM 1.0.</error>",
+  "headers": {
+    "Content-Length": "93",
+    "p3p": "CP=\"CAO DSP LAW CUR ADMo DEVo PSAo IVAo IVDi CONi OUR SAMi LEG UNI NAV INT STA PHY ONL PUR PRE\"",
+    "Cache-Control": "private",
+    "Date": "Fri, 13 May 2016 07:43:38 GMT",
+    "Content-Type": "text/xml; charset=utf-8",
+    "Server": "Microsoft-IIS/6.0",
+    "X-Powered-By": "ASP.NET",
+    "X-AspNet-Version": "2.0.50727"
+  },
+  "response_url": "http://rss.canada.com/get/?F270"
+}

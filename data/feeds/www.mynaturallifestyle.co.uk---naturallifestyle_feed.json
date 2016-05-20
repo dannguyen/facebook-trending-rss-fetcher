@@ -1,0 +1,18 @@
+{
+  "requested_url": "http://www.mynaturallifestyle.co.uk/naturallifestyle/feed/",
+  "fetched_at": "2016-05-13T00:47:38.817111",
+  "status_code": 200,
+  "response_text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n\txmlns:atom=\"http://www.w3.org/2005/Atom\"\n\txmlns:sy=\"http://purl.org/rss/1.0/modules/syndication/\"\n\t\n\t>\n<channel>\n\t<title>Comments on: </title>\n\t<atom:link href=\"http://www.mynaturallifestyle.co.uk/naturallifestyle/feed/\" rel=\"self\" type=\"application/rss+xml\" />\n\t<link></link>\n\t<description>The free magazine dedicated to natural health</description>\n\t<lastBuildDate></lastBuildDate>\n\t<sy:updatePeriod>hourly</sy:updatePeriod>\n\t<sy:updateFrequency>1</sy:updateFrequency>\n\t<generator>https://wordpress.org/?v=4.5.2</generator>\n</channel>\n</rss>\n",
+  "headers": {
+    "Transfer-Encoding": "chunked",
+    "Link": "<http://www.mynaturallifestyle.co.uk/wp-json/>; rel=\"https://api.w.org/\"",
+    "X-Hostname": "sweb6",
+    "Last-Modified": "Thu, 01 Jan 1970 00:00:00 GMT",
+    "Date": "Fri, 13 May 2016 07:45:15 GMT",
+    "ETag": "\"99b889a9cd748e8b4eca0eb3758d138d\"",
+    "Content-Type": "application/rss+xml; charset=UTF-8",
+    "Server": "Apache/2.4.18 (Unix)",
+    "X-Powered-By": "PHP/5.3.28"
+  },
+  "response_url": "http://www.mynaturallifestyle.co.uk/naturallifestyle/feed/"
+}

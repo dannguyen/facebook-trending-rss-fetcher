@@ -1,0 +1,23 @@
+{
+  "requested_url": "http://www.thehindubusinessline.com/news/international/?service=rss",
+  "fetched_at": "2016-05-13T00:46:29.264586",
+  "status_code": 200,
+  "response_text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<rss version=\"2.0\">\n<channel>\n<title>BusinessLine - World</title>\n<link>http://www.thehindubusinessline.com/news/world/</link>\n<description>RSS feed</description>\n<language>en-us</language>\n<copyright>Copyright 2016 The Hindu Business Line </copyright>\n<item>\n<title><![CDATA[Nissan throws $2.2 bn lifeline to scandal-hit Mitsubishi Motors ]]></title>\n<category><![CDATA[World]]></category>\n<link>http://www.thehindubusinessline.com/news/world/nissan-throws-22-bn-lifeline-to-scandalhit-mitsubishi-motors/article8590477.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication</link>\n<description><![CDATA[\nNissan threw a lifeline to Mitsubishi Motors today as it announced plans to buy a one-third stake in the scandal-hit automaker for $2.2 billion, forging an alliance that will challenge some of the wo...\n]]>\n</description>\n<pubDate><![CDATA[Thu, 12 May 2016 16:56:44 +0530]]></pubDate>\n</item>\n<item>\n<title><![CDATA[French govt faces no-confidence vote over labour reform]]></title>\n<category><![CDATA[World]]></category>\n<link>http://www.thehindubusinessline.com/news/world/french-govt-faces-noconfidence-vote-over-labour-reform/article8589593.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication</link>\n<description><![CDATA[\nFrance\u2019s already unpopular socialist government faces a no\u2014confidence vote today after it bypassed parliament and forced through a labour reform Bill that has led to two months of demonstrations.\n]]>\n</description>\n<pubDate><![CDATA[Thu, 12 May 2016 11:46:30 +0530]]></pubDate>\n</item>\n<item>\n<title><![CDATA[India wary of EU seizing drug shipments under new law]]></title>\n<category><![CDATA[Companies]]></category>\n<link>http://www.thehindubusinessline.com/companies/india-wary-of-eu-seizing-drug-shipments-under-new-law/article8586357.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication</link>\n<description><![CDATA[\nMay move WTO; in talks with bloc\n]]>\n</description>\n<pubDate><![CDATA[Wed, 11 May 2016 23:17:37 +0530]]></pubDate>\n</item>\n<item>\n<title><![CDATA[Panama commits to automatic exchange of tax data for the first time ]]></title>\n<category><![CDATA[World]]></category>\n<link>http://www.thehindubusinessline.com/news/world/panama-commits-to-automatic-exchange-of-tax-data-for-the-first-time/article8586089.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication</link>\n<description><![CDATA[\nThe Organisation for Economic Cooperation and Development (OECD) today said Panama, along with few other jurisdictions, has committed to the internationally accepted norm of \u201cautomatic\u201d sharing of fi...\n]]>\n</description>\n<pubDate><![CDATA[Wed, 11 May 2016 19:13:20 +0530]]></pubDate>\n</item>\n</channel>\n</rss>\n",
+  "headers": {
+    "Date": "Fri, 13 May 2016 07:44:06 GMT",
+    "Cache-Control": "max-age=271",
+    "X-Cache-Hits": "1",
+    "Content-Language": "en",
+    "Expires": "Fri, 13 May 2016 07:48:37 GMT",
+    "Content-Encoding": "gzip",
+    "Last-Modified": "Thu, 12 May 2016 11:19:30 GMT",
+    "Content-Type": "application/rss+xml;charset=UTF-8",
+    "Connection": "keep-alive",
+    "X-Served-By": "cache-2",
+    "Content-Length": "1297",
+    "Vary": "Accept-Encoding",
+    "Server": "Apache-Coyote/1.1",
+    "Accept-Ranges": "bytes"
+  },
+  "response_url": "http://www.thehindubusinessline.com/news/world/?service=rss"
+}

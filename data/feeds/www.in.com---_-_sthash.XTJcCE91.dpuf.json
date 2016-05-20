@@ -1,0 +1,23 @@
+{
+  "requested_url": "http://www.in.com/ - sthash.XTJcCE91.dpuf",
+  "fetched_at": "2016-05-13T00:47:03.508160",
+  "status_code": 404,
+  "response_text": "<!DOCTYPE HTML>\n<html>\n<head>\n<script>\nif(document.referrer!=null) {\nGCall_Flag=false;\n\nvar docuref=document.referrer;\t\n\nfunction truncate(input) {\n  var byteLength = 61;\n  return decodeURIComponent(encodeURIComponent(input)\n.substr(0,byteLength));\n}\n\nfunction getkeywords() {\n  var x = document.referrer;\n  var keywords = 0;\n  if (x.search(/yahoo/) != -1) {\n    keywords = gup(\"p\"); \n  }\n  else if (x.search(/digg/) != -1) {\n    keywords = gup(\"s\"); \n  }\n  else {\n    keywords = gup(\"q\"); \n  }\n  keywords = truncate(keywords.replace(/\\+/g, \" \"));\n  return keywords; \n}\n\nfunction gup(name) {\n  name = name.replace(/[\\[]/,\"\\\\\\[\").replace(/[\\]]/,\"\\\\\\]\");\n  var regexS = \"[\\\\?&]\"+name+\"=([^&#]*)\";\n  var regex = new RegExp( regexS );\n  var results = regex.exec( document.referrer );\n  if( results == null )\n    return \"\";\n  else\n    return results[1];\n}\n\nvar s_keyword=getkeywords();\n    if (s_keyword.length > 0) {\n        window.location.href='/search_site.php?section=all&q='+s_keyword;\n    } else {\n        window.location.href='/page_not_found.php';\n    }\n}\n</script>\n</head>\n<body>\n</body>\n</html>\n",
+  "headers": {
+    "Cneonction": "close",
+    "Date": "Fri, 13 May 2016 07:44:40 GMT",
+    "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+    "Content-Length": "547",
+    "Content-Encoding": "gzip",
+    "Cteonnt-Length": "1101",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Connection": "keep-alive",
+    "Pragma": "no-cache",
+    "ServerIP": "172.18.17.23",
+    "RURL": "/%20-%20sthash.XTJcCE91.dpuf",
+    "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+    "Vary": "Accept-Encoding",
+    "Server": "Apache"
+  },
+  "response_url": "http://www.in.com/%20-%20sthash.XTJcCE91.dpuf"
+}

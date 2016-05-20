@@ -1,0 +1,30 @@
+{
+  "requested_url": "http://www.pnas.org/rss/Feature_Article.xml",
+  "fetched_at": "2016-05-13T00:45:31.677248",
+  "status_code": 200,
+  "response_text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n\n<rdf:RDF\n xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n xmlns=\"http://purl.org/rss/1.0/\"\n xmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n xmlns:taxo=\"http://purl.org/rss/1.0/modules/taxonomy/\"\n xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n xmlns:syn=\"http://purl.org/rss/1.0/modules/syndication/\"\n xmlns:prism=\"http://purl.org/rss/1.0/modules/prism/\"\n xmlns:admin=\"http://webns.net/mvcb/\"\n>\n\n<channel rdf:about=\"http://www.pnas.org\">\n<title>Proceedings of the National Academy of Sciences Feature Article</title>\n<link>http://www.pnas.org</link>\n<description>Proceedings of the National Academy of Sciences RSS feed -- recent Feature Article articles</description>\n<prism:eIssn>1091-6490</prism:eIssn>\n<prism:publicationName>Proceedings of the National Academy of Sciences</prism:publicationName>\n<prism:issn>0027-8424</prism:issn>\n<items>\n <rdf:Seq>\n  <rdf:li rdf:resource=\"http://www.pnas.org/content/112/15/4531.short?rss=1\" />\n </rdf:Seq>\n</items>\n<image rdf:resource=\"http://www.pnas.org/icons/banner/title.gif\" />\n</channel>\n<image rdf:about=\"http://www.pnas.org/icons/banner/title.gif\">\n<title>Proceedings of the National Academy of Sciences</title>\n<url>http://www.pnas.org/icons/banner/title.gif</url>\n<link>http://www.pnas.org</link>\n</image>\n<item rdf:about=\"http://www.pnas.org/content/112/15/4531.short?rss=1\">\n<title><![CDATA[Mammal loss in Australia [Environmental Sciences]]]></title>\n<link>http://www.pnas.org/content/112/15/4531.short?rss=1</link>\n<description><![CDATA[The highly distinctive and mostly endemic Australian land mammal fauna has suffered an extraordinary rate of extinction (>10% of the 273 endemic terrestrial species) over the last \u00e2\u0088\u00bc200 y: in comparison, only one native land mammal from continental North America became extinct since European settlement. A further 21% of Australian...]]></description>\n<dc:creator><![CDATA[Woinarski, J. C. Z., Burbidge, A. A., Harrison, P. L.]]></dc:creator>\n<dc:date>2015-04-14T09:31:36-07:00</dc:date>\n<dc:identifier>info:doi/10.1073/pnas.1417301112</dc:identifier>\n<dc:identifier>hwp:master-id:pnas;1417301112</dc:identifier>\n<dc:publisher>National Academy of Sciences of the USA</dc:publisher>\n<dc:subject><![CDATA[Feature Articles]]></dc:subject>\n<dc:title><![CDATA[Ongoing unraveling of a continental fauna: Decline and extinction of Australian mammals since European settlement [Environmental Sciences]]]></dc:title>\n<prism:publicationDate>2015-04-14</prism:publicationDate>\n<prism:section>Feature Article</prism:section>\n<prism:subsection1>Feature Articles</prism:subsection1>\n<prism:subsection2>Biological Sciences</prism:subsection2>\n<prism:subsection3>Environmental Sciences</prism:subsection3>\n<prism:volume>112</prism:volume>\n<prism:number>15</prism:number>\n<prism:startingPage>4531</prism:startingPage>\n<prism:endingPage>4540</prism:endingPage>\n</item>\n</rdf:RDF>",
+  "headers": {
+    "X-Highwire-RequestId": "VzWDdwrcJDcAAErY4PsAAAAb",
+    "Date": "Fri, 13 May 2016 07:43:08 GMT",
+    "X-Firenze-Processing-Time": "15.518, 22.892",
+    "Accept-Ranges": "bytes",
+    "Age": "551",
+    "Content-Encoding": "gzip",
+    "Last-Modified": "Tue, 05 May 2015 03:29:34 GMT",
+    "Via": "1.1 varnish",
+    "X-SmartBan-URL": "/rss/Feature_Article.xml",
+    "Connection": "keep-alive",
+    "X-Varnish": "2091134263 2090852242",
+    "Content-Length": "1101",
+    "X-Highwire-SessionId": "dLK5ePoK9NJ@L7CRW-Mfaw",
+    "X-Firenze-Processing-Times": "detect-robot: 0.135, add-external-dependencies-info: 0.037, add-req-info: 5.695, retrieve-ads: 3.836, log-builder: 1.078, log-builder2: 1.005, servlet: 8.163",
+    "X-Varnish-Cache": "hit",
+    "Content-Type": "text/xml",
+    "X-SmartBan-Host": "www.pnas.org",
+    "X-Varnish-Hostname": "h20-prod-varnish05.highwire.org",
+    "ETag": "\"34dc82-b5f-5548391e\"",
+    "Vary": "Accept-Encoding",
+    "Server": "Apache/2.2.29 (Unix) DAV/2 mod_jk/1.2.28 mod_ssl/2.2.29 OpenSSL/0.9.8e-fips-rhel5"
+  },
+  "response_url": "http://www.pnas.org/rss/Feature_Article.xml"
+}

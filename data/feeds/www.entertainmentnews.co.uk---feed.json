@@ -1,0 +1,14 @@
+{
+  "requested_url": "http://www.entertainmentnews.co.uk/feed/",
+  "fetched_at": "2016-05-13T00:48:08.954847",
+  "status_code": 200,
+  "response_text": "\r\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en-US\" lang=\"en-US\">\r\n<head>\r\n<title></title>\r\n<meta  name=\"description\" content=\"\" />\r\n<meta  name=\"keywords\" content=\"\" />\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">\r\n</head>\r\n<frameset rows=\"*,0\" frameborder=\"NO\" border=\"0\" framespacing=\"0\">\r\n  <frame name=\"mainFrame\" src=\"http://about.7digital.com/about/group-companies#entertainment-news/feed/\">\r\n</frameset>\r\n<noframes>\r\n<body bgcolor=\"#FFFFFF\">\r\nPlease visit <a href=\"http://about.7digital.com/about/group-companies#entertainment-news/feed/\">this link</a> since your browser does not support frames.\r\n</body>\r\n</noframes>\r\n</html>\r\n",
+  "headers": {
+    "Content-Length": "827",
+    "Date": "Fri, 13 May 2016 07:45:45 GMT",
+    "Content-Type": "text/html;charset=ISO-8859-1",
+    "Server": "DNSME HTTP Redirection",
+    "Connection": "close"
+  },
+  "response_url": "http://www.entertainmentnews.co.uk/feed/"
+}

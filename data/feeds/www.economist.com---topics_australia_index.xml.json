@@ -1,0 +1,19 @@
+{
+  "requested_url": "http://www.economist.com/topics/australia/index.xml",
+  "fetched_at": "2016-05-13T00:48:20.143672",
+  "status_code": 403,
+  "response_text": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>403 You are banned from this site.  Please contact via a different client configuration if you believe that this is a mistake.</title>\n  </head>\n  <body>\n    <h1>Error 403 You are banned from this site.  Please contact via a different client configuration if you believe that this is a mistake.</h1>\n    <p>You are banned from this site.  Please contact via a different client configuration if you believe that this is a mistake.</p>\n    <h3>Guru Meditation:</h3>\n    <p>XID: 394802796</p>\n    <hr>\n    <p>Varnish cache server</p>\n  </body>\n</html>\n",
+  "headers": {
+    "X-Iinfo": "7-24213864-24213445 PNNN RT(1463125556148 0) q(0 0 0 -1) r(0 0) U5",
+    "Date": "Fri, 13 May 2016 07:45:56 GMT",
+    "Transfer-Encoding": "chunked",
+    "X-CDN": "Incapsula",
+    "Content-Encoding": "gzip",
+    "Retry-After": "5",
+    "Content-Type": "text/html; charset=utf-8",
+    "Server": "Varnish",
+    "Connection": "keep-alive",
+    "X-Varnish": "394802796"
+  },
+  "response_url": "http://www.economist.com/topics/australia/index.xml"
+}

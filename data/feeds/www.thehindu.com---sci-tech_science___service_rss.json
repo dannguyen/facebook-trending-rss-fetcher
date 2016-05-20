@@ -1,0 +1,25 @@
+{
+  "requested_url": "http://www.thehindu.com/sci-tech/science/?service=rss",
+  "fetched_at": "2016-05-13T00:46:46.785836",
+  "status_code": 200,
+  "response_text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<rss version=\"2.0\">\n<channel>\n<title>The Hindu - Science</title>\n<link>http://www.thehindu.com/</link>\n<description>RSS feed</description>\n<language>en-us</language>\n<copyright>Copyright 2016 The Hindu</copyright>\n<item>\n<title><![CDATA[Einstein is bang right even 13 billion light years from Earth]]></title>\n<author><![CDATA[PTI]]></author>\n<category><![CDATA[Sci-Tech]]></category>\n<link>http://www.thehindu.com/sci-tech/einsteins-relativity-theory-proved-by-japanese-scientists/article8590468.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication</link>\n<description><![CDATA[\nJapanese researchers prove the 'universality' of the eminent scientist's relativity theory..\n]]>\n</description>\n<pubDate><![CDATA[Thu, 12 May 2016 16:47:10 +0530]]></pubDate>\n</item>\n</channel>\n</rss>\n",
+  "headers": {
+    "Cache-Control": "max-age=1",
+    "X-Cache-Hits": "17",
+    "Content-Language": "en",
+    "Expires": "Fri, 13 May 2016 07:44:24 GMT",
+    "Content-Encoding": "gzip",
+    "Last-Modified": "Fri, 13 May 2016 07:41:19 GMT, Thu, 12 May 2016 11:14:57 GMT",
+    "Date": "Fri, 13 May 2016 07:44:23 GMT",
+    "Connection": "keep-alive",
+    "X-Served-By": "cache-1",
+    "Content-Length": "491",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Content-Type": "application/rss+xml;charset=UTF-8",
+    "ETag": "\"154a910015a\"",
+    "Vary": "Accept-Encoding",
+    "Server": "Apache-Coyote/1.1",
+    "Accept-Ranges": "bytes"
+  },
+  "response_url": "http://www.thehindu.com/sci-tech/science/?service=rss"
+}

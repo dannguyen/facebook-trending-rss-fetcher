@@ -1,0 +1,22 @@
+{
+  "requested_url": "http://www.scienceweek.net.au/homepage/feed/",
+  "fetched_at": "2016-05-13T00:48:26.140931",
+  "status_code": 200,
+  "response_text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n\txmlns:atom=\"http://www.w3.org/2005/Atom\"\n\txmlns:sy=\"http://purl.org/rss/1.0/modules/syndication/\"\n\t\n\t>\n<channel>\n\t<title>Comments on: Homepage</title>\n\t<atom:link href=\"http://www.scienceweek.net.au/homepage/feed/\" rel=\"self\" type=\"application/rss+xml\" />\n\t<link>http://www.scienceweek.net.au</link>\n\t<description>National Science Week is an annual celebration of science in Australia, an opportunity to join together to enjoy and explore the wonders and benefits of science.</description>\n\t<lastBuildDate></lastBuildDate>\n\t\t<sy:updatePeriod>hourly</sy:updatePeriod>\n\t\t<sy:updateFrequency>1</sy:updateFrequency>\n\t<generator>http://wordpress.org/?v=3.8.1</generator>\n</channel>\n</rss>\n",
+  "headers": {
+    "Date": "Fri, 13 May 2016 07:46:04 GMT",
+    "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+    "Link": "<http://www.scienceweek.net.au/?p=310>; rel=shortlink",
+    "Last-Modified": "Thu, 01 Jan 1970 00:00:00 GMT",
+    "Pragma": "no-cache",
+    "Connection": "close",
+    "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+    "Transfer-Encoding": "chunked",
+    "ETag": "\"99b889a9cd748e8b4eca0eb3758d138d\"",
+    "Content-Type": "text/xml; charset=UTF-8",
+    "Server": "Apache/2.2.22 (Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 mod_jk/1.2.32",
+    "X-Powered-By": "PHP/5.3.10",
+    "X-Pingback": "http://www.scienceweek.net.au/xmlrpc.php"
+  },
+  "response_url": "http://www.scienceweek.net.au/homepage/feed/"
+}

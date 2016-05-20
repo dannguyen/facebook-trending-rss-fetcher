@@ -1,0 +1,18 @@
+{
+  "requested_url": "http://feeds.feedburner.com/sunshinecoastdailyentertainmen",
+  "fetched_at": "2016-05-13T00:48:33.508117",
+  "status_code": 404,
+  "response_text": "<html>\n<head>\n<style type=\"text/css\">\na:link, a:visited {\n  color: #000099;\n  text-decoration: underline;\n}\n\na:hover {\n  color: #ff0000;\n}\n\nbody {\n  font-family:  \"Trebuchet MS\",Arial,sans-serif;\n  font-size: 13px;\n  color:#333;\n  text-align:center;\n}\n\ndiv#ctr {\n  margin: 0 auto;\n  width:550px;\n  padding:0;\n  text-align: left ! important;\n}\n\ndiv#detail {\n  margin-top: 1em;\n  padding:6px;\n  border:1px dotted blue;\n}\n\nh1 {\n  font-size:23px;\n}\n\nh2 {\n  font-size:18px;\n  margin-bottom:0;\n}\n\nh3 {\n  color:#666;\n  margin-bottom:0;\n}\n\n\nli {\nmargin-bottom:1em;\n}\n\nimg {\nborder:0;\n}\n\n\n</style>\n</head>\n<body>\n<div id=\"ctr\"><a href=\"https://feedburner.google.com\"><img src=\"//feedburner.google.com/fb/images/v2logo_white.gif\" atl=\"logo\" width=\"230\" height=\"42\" /></a>\n<h1>There has been an error of some kind. Ack!</h1>\n<h2>FeedBurner could not deliver this feed to you because of the specific problem listed below:</h2>\n<div id=\"detail\">\n<p><strong>Feed Address:</strong> <script type=\"text/javascript\">document.write(location.protocol + \"//\" + encodeURI(location.host + location.pathname))</script></p>\n<p><strong>HTTP Error (Code) and Message:</strong> (404) Feed not found error: FeedBurner cannot locate this feed URI.</p>\n</div>\n<h3>What can I do about this?</h3>\n<ol>\n<li><strong>If you are a potential or current subscriber,</strong> contact the publisher to notify them that their feed content is not available. This may be temporary problem that requires their intervention to resolve, or the publisher may have permanently removed the feed from FeedBurner.</li>\n<li><strong>If you are the publisher of this feed,</strong> sign into FeedBurner and visit your feed's &ldquo;Troubleshootize&rdquo; tab to view FeedMedic, our automated diagnostic report for your feed. A cause for the problem, and tips for troubleshooting it, may be found there.</li>\n</ol>\n</body>\n</html>\n",
+  "headers": {
+    "Expires": "Fri, 13 May 2016 07:46:10 GMT",
+    "X-XSS-Protection": "1; mode=block",
+    "Transfer-Encoding": "chunked",
+    "Content-Encoding": "gzip",
+    "Cache-Control": "private, max-age=0",
+    "Date": "Fri, 13 May 2016 07:46:10 GMT",
+    "X-Content-Type-Options": "nosniff",
+    "Content-Type": "text/html; charset=ISO-8859-1",
+    "Server": "GSE"
+  },
+  "response_url": "http://feeds.feedburner.com/sunshinecoastdailyentertainmen"
+}

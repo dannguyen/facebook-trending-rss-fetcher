@@ -1,0 +1,17 @@
+{
+  "requested_url": "http://rss.canada.com/get/?F7539",
+  "fetched_at": "2016-05-13T00:46:16.203871",
+  "status_code": 200,
+  "response_text": "<?xml version=\"1.0\" encoding=\"utf-8\"?><rss version=\"2.0\"><channel><title><![CDATA[The Province - Technology]]></title><link>http://www.theprovince.com/Scripts/Sp6Query.aspx?format=ATOM</link><description><![CDATA[Search results for your query]]></description><language>en-ca</language><copyright>(c) Postmedia Network Inc.</copyright><managingEditor></managingEditor><lastBuildDate>Fri, 13 May 2016 07:39:04 GMT</lastBuildDate><category></category><generator>(c) Postmedia Network Inc.</generator></channel></rss>",
+  "headers": {
+    "Content-Length": "513",
+    "p3p": "CP=\"CAO DSP LAW CUR ADMo DEVo PSAo IVAo IVDi CONi OUR SAMi LEG UNI NAV INT STA PHY ONL PUR PRE\"",
+    "Cache-Control": "private",
+    "Date": "Fri, 13 May 2016 07:43:53 GMT",
+    "Content-Type": "text/xml; charset=utf-8",
+    "Server": "Microsoft-IIS/6.0",
+    "X-Powered-By": "ASP.NET",
+    "X-AspNet-Version": "2.0.50727"
+  },
+  "response_url": "http://rss.canada.com/get/?F7539"
+}
